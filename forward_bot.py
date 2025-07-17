@@ -1,7 +1,7 @@
 import os
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
-TOKEN        = os.getenv("BOT_TOKEN", 7880440582:AAFA5aqrvkoIOP756Yam9jDGicLGukaKXa8)
+TOKEN        = os.getenv("7880440582:AAFA5aqrvkoIOP756Yam9jDGicLGukaKXa8")
 SOURCE_ID    = -1001156481225        # source group
 DEST_ID      = -1002562832157        # destination channel
 
