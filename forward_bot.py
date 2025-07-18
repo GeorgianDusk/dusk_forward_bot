@@ -4,7 +4,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTyp
 # ------------------------------------------------------------------
 # CONFIGURATION – edit the three values below
 # ------------------------------------------------------------------
-SOURCE_ID = -1002865956385        # numeric ID of the group you copy FROM
+SOURCE_ID = -1001366594196        # numeric ID of the group you copy FROM
 DEST_ID   = -1002562832157        # numeric ID of the channel you post TO
 TOKEN     = os.getenv("BOT_TOKEN")  # set this in Render’s Environment tab
 # ------------------------------------------------------------------
